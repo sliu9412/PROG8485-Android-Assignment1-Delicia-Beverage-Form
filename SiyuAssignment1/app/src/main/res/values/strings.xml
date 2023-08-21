@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SiyuAssignment1</string>
+    <string name="app_title">Delicia Beverage</string>
+    <string name="customer_name_label">Customer Name</string>
+    <string name="email_address_label">Email Address</string>
+    <string name="phone_number_label">Phone Number</string>
+    <string name="type_label">Type of Beverage: </string>
+    <string name="type_radio_option1">Tea</string>
+    <string name="type_radio_option2">Coffee</string>
+    <string name="additional_label">Additional: </string>
+    <string name="additional_checkbox_option1">Milk</string>
+    <string name="additional_checkbox_option2">Sugar</string>
+    <string name="size_label">Size of Beverage:</string>
+    <string name="size_radio_option1">Small</string>
+    <string name="size_radio_option2">Medium</string>
+    <string name="size_radio_option3">Large</string>
+    <string name="flavour_label">Added flavourings:</string>
+    <string name="region_label">Region</string>
+    <string name="store_label">Store</string>
+    <string name="sale_date_label">Sale Date</string>
+    <string name="submit_button_label">Print Bill</string>
+</resources>
